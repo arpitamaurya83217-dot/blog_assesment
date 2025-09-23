@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blog Application
 
 ## Setup
@@ -28,3 +29,7 @@
 ## Loom Video
 
 [Loom walkthrough link]
+=======
+# blog_assesment
+This is my Assesment project which are provided by (Omnify)
+>>>>>>> 6dfc121b664d5b1856015b7018ecf302c82b3ea9
