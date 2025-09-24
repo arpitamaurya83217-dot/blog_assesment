@@ -1,7 +1,5 @@
 # Blog Application
 
-This is my Assessment project which was provided by Omnify.
-
 ## Setup
 
 ### Backend
