@@ -15,8 +15,8 @@
 
 ## Deployment
 
-- Backend: [your-backend-url]
-- Frontend: [your-frontend-url]
+- Backend: [https://blog-assesment-1.onrender.com/api/blogs]
+- Frontend: [https://blog-assesment-naab.onrender.com]
 
 ## Features
 
@@ -27,4 +27,4 @@
 
 ## Loom Video
 
-[Loom walkthrough link]
+[https://www.loom.com/share/64060e310cba4b8698135060f6c690c0?sid=0f0d36fe-a678-45ad-8be2-ed680e67804d]
